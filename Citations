@@ -1,0 +1,10 @@
+@article{diode_dataset,
+  title={{DIODE}: {A} {D}ense {I}ndoor and {O}utdoor {DE}pth {D}ataset},
+  author={Igor Vasiljevic and Nick Kolkin and Shanyi Zhang and Ruotian Luo and
+  Haochen Wang and Falcon Z. Dai and Andrea F. Daniele and Mohammadreza Mostajabi and
+  Steven Basart and Matthew R. Walter and Gregory Shakhnarovich},
+  journal={CoRR},
+  volume={abs/1908.00463},
+  year={2019},
+  url={http://arxiv.org/abs/1908.00463}
+}
